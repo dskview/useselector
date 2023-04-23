@@ -8,6 +8,7 @@ function Counter() {
   return (
     <div>
       <p>Count: {counter}</p>
+      {/* <p>Thank for Watching</p> */}
     </div>
   );
 }

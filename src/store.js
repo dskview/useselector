@@ -1,6 +1,6 @@
 import { createStore } from 'redux';
 
-const initialState = { counter: 10 };
+const initialState = { counter: 25 };
 
 function reducer(state = initialState, action) {
   switch (action.type) {
